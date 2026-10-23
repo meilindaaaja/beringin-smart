@@ -91,12 +91,12 @@ Buka alamat lokal yang ditampilkan oleh terminal Vite. Pastikan alamat API pada 
 ## 📸 Dokumentasi Screenshot
 
 ### 1. Halaman Login Petugas
+<img width="384" height="514" alt="halaman login" src="https://github.com/user-attachments/assets/459e27c9-accf-40f1-a4a1-0c7f373f44d7" />
 
-![Login Petugas](screenshots/login-petugas.png)
 
 ### 2. Halaman Login Siswa
 
-![Login Siswa](screenshots/login-siswa.png)
+
 
 ### 3. Dashboard Siswa
 
