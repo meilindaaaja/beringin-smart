@@ -1,0 +1,7 @@
+{
+  "name": "beringin-smart",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
