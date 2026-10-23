@@ -1,0 +1,246 @@
+﻿Diagnose log at 2026-10-22T15:03:43Z
+
+AppPath: C:\laragon\bin\git\mingw64\bin\git-credential-manager.exe
+InstallDir: C:\laragon\bin\git\mingw64\bin\
+Version: 2.6.0+3c28096588f549cb46f36b552390514356830abe
+
+------------
+Diagnostic: Environment
+Skipped: False
+Success: True
+Exception: None
+Log:
+OSType: Windows
+OSVersion: 10.0 (build 19045)
+Reading environment variables... OK
+ Variables:
+print_error=call "C:\laragon\bin\cmder\vendor\lib\lib_console.cmd" show_error
+lib_path=call "C:\laragon\bin\cmder\vendor\lib\lib_path.cmd"
+ConEmuPID=8036
+PUBLIC=C:\Users\Public
+ConEmuArgs=/Icon "C:\laragon\bin\cmder\icons\cmder.ico" /Title Cmder
+ALLUSERSPROFILE=C:\ProgramData
+print_debug=if 0 gtr 0 call "C:\laragon\bin\cmder\vendor\lib\lib_console.cmd" debug_output
+position=append
+LOCALAPPDATA=C:\Users\Lenovo\AppData\Local
+CMDER_SHELL=cmd
+GIT_EXEC_PATH=C:/laragon/bin/git/mingw64/libexec/git-core
+ConEmuTask={cmd::Cmder}
+USR_DIR=C:\laragon\usr
+ConEmuHWND=0x07DC075A
+GIT_INSTALL_ROOT=C:\laragon\bin\cmder\..\git
+OneDrive=C:\Users\Lenovo\OneDrive
+lib_profile=call "C:\laragon\bin\cmder\vendor\lib\lib_profile.cmd"
+print_verbose=if 0 gtr 0 call "C:\laragon\bin\cmder\vendor\lib\lib_console.cmd" verbose_output
+ANSICON=168x1000 (168x41)
+ProgramW6432=C:\Program Files
+ConEmuServerPID=16016
+cexec="C:\laragon\bin\cmder\vendor\bin\cexec.cmd"
+ConEmuCfgDir=C:\laragon\bin\cmder\vendor\conemu-maximus5
+feNot=false
+ConEmuAnsiLog=
+CMDER_ROOT=C:\laragon\bin\cmder
+TEMP=C:\Users\Lenovo\AppData\Local\Temp
+SystemDrive=C:
+MSYSTEM=MINGW64
+OS=Windows_NT
+PROCESSOR_ARCHITECTURE=x86
+found=1
+git_executable=C:\laragon\bin\cmder\vendor\git-for-windows\cmd\git.exe
+CMDER_INIT_END=22.00.48,19
+lib_base=call "C:\laragon\bin\cmder\vendor\lib\lib_base.cmd"
+lib_console=call "C:\laragon\bin\cmder\vendor\lib\lib_console.cmd"
+PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+add_to_path=C:\laragon\bin\cmder
+clink_architecture=x64
+time_init=0
+fast_init=0
+CommonProgramW6432=C:\Program Files\Common Files
+ProgramFiles(x86)=C:\Program Files (x86)
+USERPROFILE=C:\Users\Lenovo
+USERNAME=PUNYA MEYMEY
+ConEmuDir=C:\laragon\bin\cmder\vendor\conemu-maximus5
+feFlagName= 
+ProgramData=C:\ProgramData
+debug_output=0
+ConEmuPalette=Monokai
+CommonProgramFiles=C:\Program Files (x86)\Common Files
+verbose_output=0
+TERM=cygwin
+SESSIONNAME=Console
+PROMPT=CLINK $P$G
+ANSICON_DEF=7
+ProgramFiles=C:\Program Files (x86)
+COLUMNS=168
+ConEmuDrive=C:
+PSModulePath=C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules
+PROCESSOR_REVISION=7000
+currenArgu=/setpath
+CMDER_CLINK=1
+LOGONSERVER=\\TOP-PYANKA
+ConEmuConfig=
+max_depth=1
+COMPUTERNAME=TOP-PYANKA
+add_path=C:\laragon\bin\cmder
+CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files
+USER_DIR=C:\laragon\usr
+FPS_BROWSER_USER_PROFILE_STRING=Default
+SystemRoot=C:\WINDOWS
+ConEmuBuild=210912
+ComSpec=C:\WINDOWS\system32\cmd.exe
+lib_git=call "C:\laragon\bin\cmder\vendor\lib\lib_git.cmd"
+PROCESSOR_LEVEL=21
+ConEmuBaseDir=C:\laragon\bin\cmder\vendor\conemu-maximus5\ConEmu
+HOMEDRIVE=C:
+ConEmuArgs2=
+Path=C:/laragon/bin/git/mingw64/libexec/git-core;C:\laragon\bin\git\mingw64\bin;C:\laragon\bin\git\usr\bin;C:\Users\Lenovo\bin;C:\Users\Lenovo\AppData\Local\Yarn\config\global\node_modules\.bin;C:\Users\Lenovo\AppData\Roaming\npm;C:\Users\Lenovo\AppData\Roaming\Composer\vendor\bin;;C:\laragon\bin\laragon\utils;C:\laragon\bin\mysql\mysql-8.4.3-winx64\bin;C:\laragon\bin\php\php-8.3.33-Win32-vs16-x64;C:\laragon\bin\composer;C:\laragon\bin\apache\httpd-2.4.68-260617-Win64-VS18\bin;C:\laragon\bin\redis\redis-x64-5.0.14.1;C:\laragon\bin\nodejs\node-v22;C:\laragon\bin\python\python-3.13;C:\laragon\bin\python\python-3.13\Scripts;C:\laragon\bin\nginx\nginx-1.30.4;C:\laragon\bin\notepad++;C:\laragon\bin\ngrok;C:\laragon\bin\git\bin;C:\laragon\bin\git\cmd;C:\laragon\bin\git\usr\bin;C:\laragon\bin\git\mingw64\bin;C:\laragon\bin;C:\laragon\usr\bin;C:\laragon\bin\cmder\vendor\bin;C:\laragon\bin\cmder\vendor\conemu-maximus5\ConEmu\Scripts;C:\laragon\bin\cmder\vendor\conemu-maximus5;C:\laragon\bin\cmder\vendor\conemu-maximus5\ConEmu;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\dotnet\;C:\Program Files\nodejs\;C:\Users\Lenovo\AppData\Local\Microsoft\WindowsApps;C:\Users\Lenovo\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Lenovo\.dotnet\tools;C:\Users\Lenovo\AppData\Roaming\npm;C:\laragon\bin\cmder;
+nix_tools=1
+OPENSSL_CONF=C:\laragon\bin\apache\httpd-2.4.68-260617-Win64-VS18\conf\openssl.cnf
+USERDOMAIN_ROAMINGPROFILE=TOP-PYANKA
+LC_CTYPE=C.UTF-8
+PROCESSOR_IDENTIFIER=AMD64 Family 21 Model 112 Stepping 0, AuthenticAMD
+ConEmuWorkDrive=C:
+CMDER_CONFIGURED=1
+windir=C:\WINDOWS
+FPS_BROWSER_APP_PROFILE_STRING=Internet Explorer
+TMP=C:\Users\Lenovo\AppData\Local\Temp
+CMDER_INIT_START=22.00.43,86
+ccall=call "C:\laragon\bin\cmder\vendor\bin\cexec.cmd"
+APPDATA=C:\Users\Lenovo\AppData\Roaming
+ConEmuANSI=ON
+DOCUMENT_ROOT=C:\laragon\www
+ConEmuBaseDirShort=C:\laragon\bin\cmder\vendor\conemu-maximus5\ConEmu
+USERDOMAIN=TOP-PYANKA
+NUMBER_OF_PROCESSORS=2
+TMPDIR=C:\Users\Lenovo\AppData\Local\Temp
+CMDER_USER_FLAGS= 
+ConEmuWorkDir=C:\laragon\www
+find_query=C:\\laragon\\bin\\cmder
+DriverData=C:\Windows\System32\Drivers\DriverData
+PLINK_PROTOCOL=ssh
+GIT_TRACE2_PARENT_SID=c6016145-5938-4f70-87e0-d01153ca4b5e
+depth=1
+LARAGON_ROOT=C:\laragon\
+HOMEPATH=\Users\Lenovo
+user_aliases=C:\laragon\bin\cmder\config\user_aliases.cmd
+CMDER_ALIASES=1
+LINES=41
+HOME=C:\Users\Lenovo
+PROCESSOR_ARCHITEW6432=AMD64
+OLD_PATH=C:\laragon\bin\cmder\vendor\bin;C:\laragon\bin\cmder\vendor\conemu-maximus5\ConEmu\Scripts;C:\laragon\bin\cmder\vendor\conemu-maximus5;C:\laragon\bin\cmder\vendor\conemu-maximus5\ConEmu;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\dotnet\;C:\Program Files\nodejs\;C:\Users\Lenovo\AppData\Local\Microsoft\WindowsApps;C:\Users\Lenovo\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Lenovo\.dotnet\tools;C:\Users\Lenovo\AppData\Roaming\npm
+ConEmuBackHWND=0x00600CAA
+ConEmuDrawHWND=0x00C20AEE
+architecture_bits=64
+ConEmuHooks=Enabled
+aliases=C:\laragon\bin\cmder\config\user_aliases.cmd
+
+
+------------
+Diagnostic: File system
+Skipped: False
+Success: True
+Exception: None
+Log:
+Temporary directory is 'C:\Users\Lenovo\AppData\Local\Temp\'...
+Checking basic file I/O...
+Writing to temporary file 'C:\Users\Lenovo\AppData\Local\Temp\cb67472ba89059c4401627f4'... OK
+Reading from temporary file 'C:\Users\Lenovo\AppData\Local\Temp\cb67472ba89059c4401627f4'... OK
+Deleting temporary file 'C:\Users\Lenovo\AppData\Local\Temp\cb67472ba89059c4401627f4'... OK
+Testing IFileSystem instance...
+UserHomePath: C:\Users\Lenovo
+UserDataDirectoryPath: C:\Users\Lenovo\.gcm
+GetCurrentDirectory(): C:\laragon\www\beringin-backend
+
+------------
+Diagnostic: Networking
+Skipped: False
+Success: True
+Exception: None
+Log:
+Checking networking and HTTP stack...
+Creating HTTP client... OK
+IsNetworkAvailable: True
+Sending HEAD request to http://example.com...Sending HEAD request to https://example.com... OK
+ OK
+Acquiring free TCP port... OK
+Testing local HTTP loopback connections...
+Creating new HTTP listener for http://localhost:59209/... OK
+Waiting for loopback connection... OK
+Writing response... OK
+Waiting for response data... OK
+Loopback connection data OK
+
+------------
+Diagnostic: Git
+Skipped: False
+Success: True
+Exception: None
+Log:
+Getting Git version... OK
+Git version is '2.47.1.windows.1'
+Locating current repository...Git repository at 'C:/laragon/www/beringin-backend/.git'
+ OK
+Listing all Git configuration... OK
+Git configuration:
+file:C:/laragon/bin/git/etc/gitconfig	core.symlinks=false
+file:C:/laragon/bin/git/etc/gitconfig	core.autocrlf=true
+file:C:/laragon/bin/git/etc/gitconfig	core.fscache=true
+file:C:/laragon/bin/git/etc/gitconfig	color.interactive=true
+file:C:/laragon/bin/git/etc/gitconfig	color.ui=auto
+file:C:/laragon/bin/git/etc/gitconfig	help.format=html
+file:C:/laragon/bin/git/etc/gitconfig	diff.astextplain.textconv=astextplain
+file:C:/laragon/bin/git/etc/gitconfig	rebase.autosquash=true
+file:C:/laragon/bin/git/etc/gitconfig	filter.lfs.clean=git-lfs clean -- %f
+file:C:/laragon/bin/git/etc/gitconfig	filter.lfs.smudge=git-lfs smudge -- %f
+file:C:/laragon/bin/git/etc/gitconfig	filter.lfs.process=git-lfs filter-process
+file:C:/laragon/bin/git/etc/gitconfig	filter.lfs.required=true
+file:C:/laragon/bin/git/etc/gitconfig	credential.helper=helper-selector
+file:C:/Users/Lenovo/.gitconfig	user.name=Meylinda Anjuni Waruwu
+file:C:/Users/Lenovo/.gitconfig	user.email=meylindaanjuni@gmail.com
+file:C:/Users/Lenovo/.gitconfig	credential.helperselector.selected=manager
+file:C:/Users/Lenovo/.gitconfig	credential.helper=manager
+file:.git/config	core.repositoryformatversion=0
+file:.git/config	core.filemode=false
+file:.git/config	core.bare=false
+file:.git/config	core.logallrefupdates=true
+file:.git/config	core.symlinks=false
+file:.git/config	core.ignorecase=true
+file:.git/config	remote.origin.url=https://github.com/meilindaaaja/beringin-smart.git
+file:.git/config	remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+
+
+------------
+Diagnostic: Credential storage
+Skipped: False
+Success: True
+Exception: None
+Log:
+ICredentialStore instance is of type: CredentialStore
+Writing test credential... OK
+Reading test credential... OK
+Deleting test credential... OK
+
+------------
+Diagnostic: Microsoft authentication (AAD/MSA)
+Skipped: False
+Success: True
+Exception: None
+Log:
+Broker is not enabled.
+Flow type is: Auto
+Gathering MSAL token cache data... OK
+CacheDirectory: C:\Users\Lenovo\AppData\Local\.IdentityService
+CacheFileName: msal.cache
+CacheFilePath: C:\Users\Lenovo\AppData\Local\.IdentityService\msal.cache
+Creating cache helper... OK
+Verifying MSAL token cache persistence... OK
+
+------------
+Diagnostic: GitHub API
+Skipped: False
+Success: True
+Exception: None
+Log:
+Using 'https://github.com/' as API target.
+Querying '/meta' endpoint... OK
+
