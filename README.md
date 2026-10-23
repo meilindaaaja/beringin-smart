@@ -95,24 +95,24 @@ Buka alamat lokal yang ditampilkan oleh terminal Vite. Pastikan alamat API pada 
 
 
 ### 2. Halaman Login Siswa
-
+<img width="380" height="516" alt="hal login" src="https://github.com/user-attachments/assets/46880160-c853-43c0-9da0-28c727d582bc" />
 
 
 ### 3. Dashboard Siswa
 
-![Dashboard Siswa](screenshots/dashboard-siswa.png)
+<img width="386" height="556" alt="akun" src="https://github.com/user-attachments/assets/10fbfaa8-227a-4e9a-9d50-653ecf5a8730" />
 
 ### 4. Detail Laporan Siswa
 
-![Detail Laporan Siswa](screenshots/detail-laporan-siswa.png)
+<img width="382" height="504" alt="Gambar ChatGPT 23 Okt 2026, 21 26 31" src="https://github.com/user-attachments/assets/0928a0ba-0781-420f-b8ea-86f739260f67" />
 
 ### 5. Daftar Laporan dan Konfirmasi Hapus
 
-![Daftar Laporan dan Konfirmasi Hapus](screenshots/daftar-laporan-konfirmasi-hapus.png)
+<img width="385" height="516" alt="Gambar ChatGPT 23 Okt 2026, 21 36 42" src="https://github.com/user-attachments/assets/28f46ae7-e223-436f-8528-3667eed39a73" />
 
 ### 6. Detail Laporan Petugas
 
-![Detail Laporan Petugas](screenshots/detail-laporan-petugas.png)
+<img width="384" height="508" alt="Gambar ChatGPT 23 Okt 2026, 21 36 59" src="https://github.com/user-attachments/assets/821d50db-ce8a-411b-be59-e0ad7927568a" />
 
 ## 👩‍💻 Pengembang
 
