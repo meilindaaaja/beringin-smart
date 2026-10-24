@@ -26,6 +26,7 @@ Proyek ini dikembangkan sebagai bagian dari pembelajaran Kompetensi Keahlian Pen
 - **Pembaruan Status:** petugas dapat mengubah status laporan menjadi Sedang Diproses atau Selesai.
 - **Pemantauan Laporan:** siswa dapat melihat perkembangan status laporan.
 - **Tampilan Responsif:** antarmuka menggunakan tema forest green dan cream.
+- **Tampilan Tombol Hapus:** tombol untuk menghapus laporan yang salah atau sudah tidak digunakan.
 
 ## 🛠️ Teknologi yang Digunakan
 
